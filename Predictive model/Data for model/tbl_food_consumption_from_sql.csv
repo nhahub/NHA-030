@@ -1,0 +1,399 @@
+country_id,Year,description,url,id,food_id,Fat,Carbs,Protein,total_calories
+1,2024,"Per 4 oz - Calories: 120kcal | Fat: 2.00g | Carbs: 1.00g | Protein: 23.00g",https://foods.fatsecret.com/calories-nutrition/sea-queen/usa-gulf-shrimp,1,1,2,1,23,120
+1,2024,"Per 1 bar - Calories: 290kcal | Fat: 17.00g | Carbs: 24.00g | Protein: 13.00g",https://foods.fatsecret.com/calories-nutrition/usa-sports/vanilla-muscle-sandwich,2,2,17,24,13,290
+7,2024,"Per 100g - Calories: 160kcal | Fat: 8.20g | Carbs: 0.00g | Protein: 20.12g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-ribs-(lean-only-trimmed-to-1-8-fat),3,107,8.2,0,20.12,160
+7,2024,"Per 100g - Calories: 123kcal | Fat: 3.81g | Carbs: 0.00g | Protein: 20.83g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-foreshank-(lean-only-trimmed-to-1-8-fat),4,108,3.81,0,20.83,123
+1,2024,"Per 1 serving - Calories: 40kcal | Fat: 0.00g | Carbs: 10.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/fibergy,5,3,0,10,0,40
+1,2024,"Per 1 bar - Calories: 160kcal | Fat: 4.50g | Carbs: 20.00g | Protein: 11.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrition-bar---peanut-butter-crunch,6,4,4.5,20,11,160
+1,2024,"Per 1 serving - Calories: 255kcal | Fat: 7.00g | Carbs: 33.00g | Protein: 16.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-drink-mix---french-vanilla,7,5,7,33,16,255
+1,2024,"Per 1 serving - Calories: 242kcal | Fat: 7.00g | Carbs: 32.00g | Protein: 16.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-drink-mix---dutch-chocolate,8,6,7,32,16,242
+1,2024,"Per 1 serving - Calories: 255kcal | Fat: 7.00g | Carbs: 33.00g | Protein: 16.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-drink-mix---wild-strawberry,9,7,7,33,16,255
+7,2024,"Per 100g - Calories: 254kcal | Fat: 20.00g | Carbs: 0.00g | Protein: 17.25g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(sirloin-half-boneless-trimmed-to-1-8-fat),10,109,20,0,17.25,254
+7,2024,"Per 100g - Calories: 256kcal | Fat: 20.47g | Carbs: 0.00g | Protein: 16.68g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-arm-and-blade-(trimmed-to-1-8-fat),11,110,20.47,0,16.68,256
+7,2024,"Per 100g - Calories: 164kcal | Fat: 9.09g | Carbs: 0.00g | Protein: 19.10g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-blade-(lean-only-trimmed-to-1-8-fat),12,111,9.09,0,19.1,164
+1,2024,"Per 1 serving - Calories: 261kcal | Fat: 9.40g | Carbs: 18.80g | Protein: 21.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-chocolate,13,8,9.4,18.8,21,261
+1,2024,"Per 1 piece - Calories: 270kcal | Fat: 0.00g | Carbs: 63.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/daifuku/mochi-kusa,14,9,0,63,4,270
+1,2024,"Per 1 serving - Calories: 20kcal | Fat: 0.00g | Carbs: 4.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/clean-eatz/nsa-bbq-sauce,15,10,0,4,1,20
+1,2024,"Per 1 serving - Calories: 30kcal | Fat: 0.00g | Carbs: 6.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/sweet-frog/nsa-cheesecake-frozen-yogurt,16,11,0,6,1,30
+1,2024,"Per 1 oz - Calories: 35kcal | Fat: 0.00g | Carbs: 7.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/orange-leaf/nsa-vanilla-frozen-yogurt,17,12,0,7,1,35
+1,2024,"Per 1 steak - Calories: 250kcal | Fat: 11.00g | Carbs: 0.00g | Protein: 35.00g",https://foods.fatsecret.com/calories-nutrition/schwans/usda-choice-filet-mignon,18,13,11,0,35,250
+1,2024,"Per 3/4 cup - Calories: 60kcal | Fat: 0.50g | Carbs: 15.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/vip/use-like-fresh-mixed-fruit,19,14,0.5,15,1,60
+1,2024,"Per 1 serving - Calories: 250kcal | Fat: 6.00g | Carbs: 3.00g | Protein: 46.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-6-oz,20,15,6,3,46,250
+11,2023,"Per 1 tortilla - Calories: 200kcal | Fat: 4.50g | Carbs: 34.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/tortillas-mexico/burrito-sized-flour-tortillas,21,165,4.5,34,5,200
+1,2024,"Per 1 serving - Calories: 340kcal | Fat: 8.00g | Carbs: 5.00g | Protein: 61.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-8-oz,22,16,8,5,61,340
+3,2024,"Per 1 tbsp - Calories: 60kcal | Fat: 4.00g | Carbs: 4.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/mamma-chia/organic-chia-seeds,23,38,4,4,3,60
+1,2024,"Per 1 serving - Calories: 460kcal | Fat: 11.00g | Carbs: 6.00g | Protein: 84.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-11-oz,24,17,11,6,84,460
+11,2023,"Per 1 bar - Calories: 170kcal | Fat: 8.00g | Carbs: 31.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/bolis-de-crema,25,166,8,31,3,170
+3,2024,"Per 1 package - Calories: 490kcal | Fat: 16.00g | Carbs: 79.00g | Protein: 13.00g",https://foods.fatsecret.com/calories-nutrition/central-market/chana-masala,26,39,16,79,13,490
+7,2024,"Per 100g - Calories: 208kcal | Fat: 14.38g | Carbs: 0.00g | Protein: 18.33g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(sirloin-chops-boneless-trimmed-to-1-8-fat),27,112,14.38,0,18.33,208
+7,2024,"Per 100g - Calories: 137kcal | Fat: 5.81g | Carbs: 0.00g | Protein: 19.88g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-arm-(lean-only-trimmed-to-1-8-fat),28,113,5.81,0,19.88,137
+7,2024,"Per 100g - Calories: 215kcal | Fat: 15.19g | Carbs: 0.00g | Protein: 18.24g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(whole-(shank-and-sirloin)-trimmed-to-1-8-fat),29,114,15.19,0,18.24,215
+11,2023,"Per 1 bar - Calories: 90kcal | Fat: 0.00g | Carbs: 23.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/mangonada-con-chamoy,30,167,0,23,0,90
+7,2024,"Per 100g - Calories: 133kcal | Fat: 5.10g | Carbs: 0.00g | Protein: 20.45g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(shank-half-lean-only-trimmed-to-1-8-fat),31,115,5.1,0,20.45,133
+7,2024,"Per 100g - Calories: 195kcal | Fat: 12.56g | Carbs: 0.00g | Protein: 19.17g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(center-slice-bone-in-trimmed-to-1-8-fat),32,116,12.56,0,19.17,195
+11,2023,"Per 1 bar - Calories: 140kcal | Fat: 7.00g | Carbs: 19.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/mango-premium-ice-cream-bars,33,168,7,19,2,140
+8,2024,"Per 3 nuts - Calories: 90kcal | Fat: 9.00g | Carbs: 2.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/terrasoul/raw-brazil-nuts,34,117,9,2,2,90
+11,2023,"Per 2 tortillas - Calories: 100kcal | Fat: 1.00g | Carbs: 21.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/tortillas-mexico/corn-tortillas,35,169,1,21,3,100
+11,2023,"Per 1/3 medium - Calories: 80kcal | Fat: 8.00g | Carbs: 1.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/avocados-from-mexico/avocado,37,170,8,1,1,80
+8,2024,"Per 6 nuts - Calories: 190kcal | Fat: 19.00g | Carbs: 3.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/meijer/brazil-nuts,38,118,19,3,4,190
+12,2023,"Per 1 serving - Calories: 930kcal | Fat: 49.00g | Carbs: 100.00g | Protein: 31.00g",https://foods.fatsecret.com/calories-nutrition/logans-roadhouse/spin-dip,39,171,49,100,31,930
+8,2024,"Per 5 nuts - Calories: 130kcal | Fat: 13.00g | Carbs: 2.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/now-real-food/organic-brazil-nuts,41,119,13,2,3,130
+4,2024,"Per 1 tbsp - Calories: 20kcal | Fat: 0.00g | Carbs: 5.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/heinz/india-relish,44,40,0,5,0,20
+12,2023,"Per 1 slice - Calories: 140kcal | Fat: 1.50g | Carbs: 28.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/labrea-bakery/pain-rustique,46,172,1.5,28,4,140
+4,2024,"Per 1 bottle - Calories: 110kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/malta-india/malta-india-(207ml),47,42,0,26,0,110
+12,2023,"Per 1 bread - Calories: 230kcal | Fat: 13.00g | Carbs: 24.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/paris-baguette/pain-au-chocolat,48,173,13,24,3,230
+12,2023,"Per 1 serving - Calories: 230kcal | Fat: 1.00g | Carbs: 49.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/kneaders/petit-pain-rolls,49,174,1,49,7,230
+12,2023,"Per 1 - Calories: 130kcal | Fat: 0.50g | Carbs: 27.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/pain-de-campagne,50,175,0.5,27,5,130
+4,2024,"Per 1 serving - Calories: 150kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/perkins-restaurant/india-pale-ale,51,43,0,11,0,150
+12,2023,"Per 1 roll - Calories: 399kcal | Fat: 13.00g | Carbs: 60.00g | Protein: 11.00g",https://foods.fatsecret.com/calories-nutrition/ace-bakery/pain-au-lait,52,176,13,60,11,399
+12,2023,"Per 1/5 loaf - Calories: 170kcal | Fat: 1.00g | Carbs: 36.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/petite-pain-pauline,54,177,1,36,5,170
+1,2024,"Per 1 serving - Calories: 670kcal | Fat: 16.00g | Carbs: 9.00g | Protein: 122.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-16-oz,57,18,16,9,122,670
+4,2024,"Per 1/4 cup - Calories: 160kcal | Fat: 0.00g | Carbs: 36.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/basmati-rice-from-india,60,44,0,36,4,160
+12,2023,"Per 1 serving - Calories: 120kcal | Fat: 0.50g | Carbs: 25.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/acme/pain-au-levain,61,178,0.5,25,4,120
+1,2024,"Per 1 serving - Calories: 560kcal | Fat: 25.00g | Carbs: 43.00g | Protein: 42.00g",https://foods.fatsecret.com/calories-nutrition/applebees/usda-select-sirloin-(6-oz),62,19,25,43,42,560
+12,2023,"Per 1 slice - Calories: 120kcal | Fat: 0.50g | Carbs: 25.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/essential-baking-company/pain-du-george,63,179,0.5,25,4,120
+1,2024,"Per 1 serving - Calories: 620kcal | Fat: 27.00g | Carbs: 44.00g | Protein: 53.00g",https://foods.fatsecret.com/calories-nutrition/applebees/usda-select-sirloin-(8-oz),64,20,27,44,53,620
+3,2024,"Per 1 serving - Calories: 1310kcal | Fat: 81.00g | Carbs: 87.00g | Protein: 60.00g",https://foods.fatsecret.com/calories-nutrition/islands-restaurants/china-coast,65,21,81,87,60,1310
+4,2024,"Per 1 tea bag - Calories: 0kcal | Fat: 0.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/celestial-seasonings/india-spice-chai-tea,66,45,0,0,0,0
+3,2024,"Per 1 brewed cup - Calories: 0kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/tea-pot-brand/china-slim-tea,67,22,0,1,0,0
+3,2024,"Per 1 tbsp - Calories: 10kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/ranchero/salsa-china-soy-sauce,69,23,0,1,1,10
+3,2024,"Per 100g - Calories: 490kcal | Fat: 30.75g | Carbs: 43.85g | Protein: 15.62g",https://foods.fatsecret.com/calories-nutrition/generic/chia-seeds,71,24,30.75,43.85,15.62,490
+3,2024,"Per 434g - Calories: 458kcal | Fat: 18.94g | Carbs: 54.42g | Protein: 19.98g",https://foods.fatsecret.com/calories-nutrition/generic/chia-pudding,73,25,18.94,54.42,19.98,458
+4,2024,"Per 1924g - Calories: 2539kcal | Fat: 69.06g | Carbs: 399.96g | Protein: 82.34g",https://foods.fatsecret.com/calories-nutrition/generic/pudding-indian-(milk-molasses-and-cornmeal-based-pudding),74,49,69.06,399.96,82.34,2539
+3,2024,"Per 1/2 cup - Calories: 130kcal | Fat: 5.00g | Carbs: 16.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/china-boy/rice-noodles,75,26,5,16,3,130
+4,2024,"Per 100g - Calories: 26kcal | Fat: 0.20g | Carbs: 5.64g | Protein: 0.52g",https://foods.fatsecret.com/calories-nutrition/usda/indian-squash-(navajo),76,50,0.2,5.64,0.52,26
+3,2024,"Per 1 tbsp - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/china-lily/soya-sauce,77,27,0,2,1,10
+3,2024,"Per 1/4 cup dry - Calories: 70kcal | Fat: 0.00g | Carbs: 22.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/china-doll/dried-large-lima-beans,78,28,0,22,7,70
+3,2024,"Per 1/2 cup - Calories: 130kcal | Fat: 5.00g | Carbs: 16.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/china-boy/chow-mein-noodles,79,29,5,16,3,130
+3,2024,"Per 2 oz - Calories: 200kcal | Fat: 0.00g | Carbs: 47.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/china-boy/enriched-lo-mein-noodles,80,30,0,47,4,200
+3,2024,"Per 3 oz - Calories: 140kcal | Fat: 9.00g | Carbs: 1.00g | Protein: 14.00g",https://foods.fatsecret.com/calories-nutrition/china-tofu/marinated-bean-curd,81,31,9,1,14,140
+3,2024,"Per 1/3 cup - Calories: 70kcal | Fat: 0.00g | Carbs: 17.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/china-bowl-select/cellophane-noodles,82,32,0,17,0,70
+3,2024,"Per 1/2 cup - Calories: 150kcal | Fat: 1.00g | Carbs: 34.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/china-bowl-select/chinese-noodles,83,33,1,34,5,150
+3,2024,"Per 100g - Calories: 490kcal | Fat: 30.75g | Carbs: 43.85g | Protein: 15.62g",https://foods.fatsecret.com/calories-nutrition/usda/dried-chia-seeds,84,34,30.75,43.85,15.62,490
+3,2024,"Per 18 pieces - Calories: 110kcal | Fat: 5.00g | Carbs: 14.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/gonyek/chin-chin,85,35,5,14,2,110
+3,2024,"Per 1 pouch - Calories: 70kcal | Fat: 3.00g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/mamma-chia/chia-squeeze,86,36,3,12,2,70
+3,2024,"Per 1/2 oz - Calories: 77kcal | Fat: 5.00g | Carbs: 7.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/the-chia-co/black-chia,87,37,5,7,3,77
+8,2024,"Per 1/4 cup - Calories: 200kcal | Fat: 20.00g | Carbs: 4.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/diamond-of-california/shelled-brazil-nuts,88,120,20,4,4,200
+8,2024,"Per 6 kernels - Calories: 185kcal | Fat: 19.00g | Carbs: 3.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/food-to-live/raw-organic-brazil-nuts,89,121,19,3,4,185
+8,2024,"Per 5 pieces - Calories: 219kcal | Fat: 20.00g | Carbs: 14.00g | Protein: 6.00g",https://foods.fatsecret.com/calories-nutrition/next-organics/dark-chocolate-brazil-nuts,93,122,20,14,6,219
+8,2024,"Per 6 pieces - Calories: 200kcal | Fat: 14.00g | Carbs: 3.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/king-henrys/brazil-nut,100,124,14,3,4,200
+9,2024,"Per 1 zucchini with 1/4 cup sauce - Calories: 237kcal | Fat: 11.00g | Carbs: 26.00g | Protein: 12.00g",https://foods.fatsecret.com/calories-nutrition/real-appeal/kousa-mahshi-(egyptian-stuffed-zucchini),102,126,11,26,12,237
+9,2024,"Per 1 container - Calories: 380kcal | Fat: 15.00g | Carbs: 47.00g | Protein: 15.00g",https://foods.fatsecret.com/calories-nutrition/the-juice-press/egyptian-red-lentil-soup,104,128,15,47,15,380
+9,2024,"Per 1/2 cup - Calories: 160kcal | Fat: 5.00g | Carbs: 16.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/california-garden/peeled-fava-beans-egyptian-recipe,105,129,5,16,7,160
+10,2023,"Per 1 cup - Calories: 100kcal | Fat: 2.50g | Carbs: 11.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/hiland/1%25-lowfat-milk,109,133,2.5,11,8,100
+10,2023,"Per 1 tbsp - Calories: 100kcal | Fat: 11.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/hiland/salted-butter-(4-quarters),115,139,11,0,0,100
+10,2023,"Per 1 cup - Calories: 180kcal | Fat: 5.00g | Carbs: 26.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/hiland/strawberry-milk,116,140,5,26,7,180
+10,2023,"Per 1 cup - Calories: 120kcal | Fat: 5.00g | Carbs: 11.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/hiland/2%25-reduced-fat-milk,117,141,5,11,8,120
+12,2023,"Per 1 slice - Calories: 120kcal | Fat: 0.00g | Carbs: 24.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/whole-foods-market/pain-de-campagne-bread,118,180,0,24,4,120
+10,2023,"Per 1 cup - Calories: 80kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/hiland/fat-free-skim-milk/1-cup,119,142,0,11,8,80
+10,2023,"Per 1/2 cup - Calories: 100kcal | Fat: 5.00g | Carbs: 5.00g | Protein: 11.00g",https://foods.fatsecret.com/calories-nutrition/hiland/4%25-small-curd-cottage-cheese,120,143,5,5,11,100
+10,2023,"Per 1 cup - Calories: 90kcal | Fat: 2.50g | Carbs: 16.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/hiland/almond-milk-vanilla,121,144,2.5,16,1,90
+10,2023,"Per 1 serving - Calories: 175kcal | Fat: 2.00g | Carbs: 33.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/hiland/lowfat-peach-yogurt,122,145,2,33,7,175
+10,2023,"Per 1 oz - Calories: 110kcal | Fat: 9.00g | Carbs: 1.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/hiland/pepper-jack-cheese,123,146,9,1,7,110
+12,2023,"Per 1 slice - Calories: 110kcal | Fat: 2.00g | Carbs: 22.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/kirkland-signature/organic-loaf-pain-biologique,124,181,2,22,5,110
+12,2023,"Per 8 pieces - Calories: 70kcal | Fat: 2.00g | Carbs: 13.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/ile-de-france/le-petit-pain-grille,125,182,2,13,2,70
+12,2023,"Per 1 roll - Calories: 110kcal | Fat: 2.50g | Carbs: 19.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/central-market/pain-au-lait-rolls,126,183,2.5,19,3,110
+4,2024,"Per 100g - Calories: 16kcal | Fat: 0.15g | Carbs: 3.22g | Protein: 0.31g",https://foods.fatsecret.com/calories-nutrition/usda/indian-squash-(cooked-boiled)-(navajo),127,51,0.15,3.22,0.31,16
+10,2023,"Per 1 cup - Calories: 30kcal | Fat: 3.00g | Carbs: 2.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/hiland/almond-milk-unsweetened-vanilla,128,147,3,2,1,30
+12,2023,"Per 2 1/2 slice - Calories: 140kcal | Fat: 2.00g | Carbs: 25.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/wegmans/round-pain-de-campagne-bread,129,184,2,25,4,140
+12,2023,"Per 1 serving - Calories: 1152kcal | Fat: 38.00g | Carbs: 170.00g | Protein: 34.00g",https://foods.fatsecret.com/calories-nutrition/mimis-cafe/pain-perdu-with-mixed-berries,130,185,38,170,34,1152
+10,2023,"Per 2/3 cup - Calories: 150kcal | Fat: 5.00g | Carbs: 25.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/hiland/vanilla-light-ice-cream,131,148,5,25,3,150
+12,2023,"Per 1 roll - Calories: 160kcal | Fat: 7.00g | Carbs: 18.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/pain-au-lait-chocolate-chip,132,186,7,18,3,160
+10,2023,"Per 1 tbsp - Calories: 35kcal | Fat: 1.50g | Carbs: 5.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/hiland/french-vanilla-coffee-creamer,133,149,1.5,5,0,35
+10,2023,"Per 1/4 cup - Calories: 140kcal | Fat: 7.00g | Carbs: 18.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/thai-peanut-sauce,134,150,7,18,4,140
+4,2024,"Per 100g - Calories: 330kcal | Fat: 12.22g | Carbs: 48.26g | Protein: 6.69g",https://foods.fatsecret.com/calories-nutrition/usda/indian-bread-made-with-lard-(navajo),135,52,12.22,48.26,6.69,330
+4,2024,"Per 669g - Calories: 2611kcal | Fat: 158.24g | Carbs: 274.71g | Protein: 37.69g",https://foods.fatsecret.com/calories-nutrition/generic/ladoo-round-ball-asian-indian-dessert,136,53,158.24,274.71,37.69,2611
+4,2024,"Per 1 Bottle - Calories: 107kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 0.60g",https://foods.fatsecret.com/calories-nutrition/india/malta,137,54,0,26,0.6,107
+9,2023,"Per 1 zucchini with 1/4 cup sauce - Calories: 237kcal | Fat: 11.00g | Carbs: 26.00g | Protein: 12.00g",https://foods.fatsecret.com/calories-nutrition/real-appeal/kousa-mahshi-(egyptian-stuffed-zucchini),138,126,11,26,12,237
+4,2024,"Per 3904g - Calories: 5543kcal | Fat: 121.02g | Carbs: 979.45g | Protein: 138.19g",https://foods.fatsecret.com/calories-nutrition/generic/pudding-rice-flour-with-nuts-(indian-dessert),139,55,121.02,979.45,138.19,5543
+12,2023,"Per 1/8 loaf - Calories: 170kcal | Fat: 2.00g | Carbs: 32.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/pain-rustique-country-style-french-bread,141,187,2,32,5,170
+4,2024,"Per 1/4 cup dry - Calories: 160kcal | Fat: 0.00g | Carbs: 35.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/india-gate/basmati-rice,142,56,0,35,4,160
+9,2023,"Per 1 container - Calories: 380kcal | Fat: 15.00g | Carbs: 47.00g | Protein: 15.00g",https://foods.fatsecret.com/calories-nutrition/the-juice-press/egyptian-red-lentil-soup,143,128,15,47,15,380
+12,2023,"Per 1 serving - Calories: 1520kcal | Fat: 71.00g | Carbs: 171.00g | Protein: 50.00g",https://foods.fatsecret.com/calories-nutrition/mimis-cafe/pain-perdu-with-mixed-berries-with-protein-choice-pork-sausage,144,188,71,171,50,1520
+9,2023,"Per 1/2 cup - Calories: 160kcal | Fat: 5.00g | Carbs: 16.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/california-garden/peeled-fava-beans-egyptian-recipe,145,129,5,16,7,160
+5,2024,"Per 1 serving - Calories: 140kcal | Fat: 0.00g | Carbs: 3.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/m-chapoutier-belleruche-rose-cotes-du-rhone-france,146,57,0,3,0,140
+5,2024,"Per 1 serving - Calories: 590kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/m-chapoutier-belleruche-rose-cotes-du-rhone-france-bottle,147,58,0,11,1,590
+4,2023,"Per 1 tbsp - Calories: 20kcal | Fat: 0.00g | Carbs: 5.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/heinz/india-relish,148,40,0,5,0,20
+5,2024,"Per 100g - Calories: 85kcal | Fat: 0.00g | Carbs: 2.45g | Protein: 0.07g",https://foods.fatsecret.com/calories-nutrition/usda/cabernet-franc-wine,149,59,0,2.45,0.07,85
+11,2023,"Per 1 serving - Calories: 220kcal | Fat: 0.00g | Carbs: 58.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/papa-johns/pepsi-mexico-12-oz,151,151,0,58,0,220
+11,2023,"Per 1 taco - Calories: 188kcal | Fat: 3.00g | Carbs: 27.00g | Protein: 13.00g",https://foods.fatsecret.com/calories-nutrition/la-salsa/mexico-city-chicken-tacos,152,152,3,27,13,188
+14,2023,"Per 1 tbsp - Calories: 40kcal | Fat: 1.50g | Carbs: 1.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/russian-traditional-style/salmon-caviar,154,218,1.5,1,5,40
+11,2023,"Per 1 taco - Calories: 190kcal | Fat: 3.00g | Carbs: 27.00g | Protein: 11.00g",https://foods.fatsecret.com/calories-nutrition/la-salsa/mexico-city-steak-tacos,155,153,3,27,11,190
+4,2023,"Per 1 bottle - Calories: 110kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/malta-india/malta-india-(207ml),156,42,0,26,0,110
+14,2023,"Per 1 bottle - Calories: 183kcal | Fat: 0.00g | Carbs: 12.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/russian-river-brewery/blind-pig-ipa,157,219,0,12,0,183
+5,2024,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 11.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/traditional-marinara-sauce,158,60,1,11,2,60
+11,2023,"Per 1 serving - Calories: 150kcal | Fat: 0.00g | Carbs: 39.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/coca-cola-de-mexico,159,154,0,39,0,150
+4,2023,"Per 1 serving - Calories: 150kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/perkins-restaurant/india-pale-ale,160,43,0,11,0,150
+14,2023,"Per 2 tbsp - Calories: 70kcal | Fat: 2.50g | Carbs: 12.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/kroger/russian-dressing,161,211,2.5,12,0,70
+5,2024,"Per 1/2 cup - Calories: 100kcal | Fat: 4.50g | Carbs: 15.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/super-mushroom-pasta-sauce,165,61,4.5,15,2,100
+11,2023,"Per 1/4 cup - Calories: 10kcal | Fat: 0.00g | Carbs: 6.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/santa-fe-ole/roasted-green-new-mexico-chile,168,155,0,6,1,10
+4,2023,"Per 1/4 cup - Calories: 160kcal | Fat: 0.00g | Carbs: 36.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/basmati-rice-from-india,169,44,0,36,4,160
+5,2024,"Per 1/2 cup - Calories: 70kcal | Fat: 2.00g | Carbs: 13.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/tomato-garlic-and-onion-chunky-garden-pasta-sauce,170,62,2,13,2,70
+11,2023,"Per 1 cup - Calories: 220kcal | Fat: 11.00g | Carbs: 24.00g | Protein: 13.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/new-mexico-style-chicken-chilaquiles,171,156,11,24,13,220
+11,2023,"Per 2 tbsp - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/private-selection/new-mexico-green-chili-salsa,172,157,0,2,0,10
+5,2024,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 10.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/no-salt-added-traditional-pasta-sauce,173,63,1,10,2,60
+5,2024,"Per 1/2 cup - Calories: 90kcal | Fat: 4.50g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/eggplant-and-parmesan-sauce,174,64,4.5,12,2,90
+5,2024,"Per 1/2 cup - Calories: 70kcal | Fat: 2.00g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/meat-flavored-traditional-pasta-sauce,175,65,2,12,2,70
+4,2023,"Per 1 tea bag - Calories: 0kcal | Fat: 0.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/celestial-seasonings/india-spice-chai-tea,176,45,0,0,0,0
+5,2024,"Per 1/4 cup - Calories: 20kcal | Fat: 0.00g | Carbs: 4.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/pizza-sauce,178,66,0,4,1,20
+11,2023,"Per 1 bar - Calories: 210kcal | Fat: 10.00g | Carbs: 20.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/coco-coconut-premium-ice-cream-bars,179,158,10,20,3,210
+5,2024,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/tomato-garlic-onion-pasta-sauce,181,67,1,12,2,60
+11,2023,"Per 1 bar - Calories: 150kcal | Fat: 7.00g | Carbs: 20.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/fresa-strawberry-premium-ice-cream-bars,182,159,7,20,2,150
+11,2023,"Per 1 bar - Calories: 180kcal | Fat: 11.00g | Carbs: 19.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/nuez-pecan-premium-ice-cream-bars,183,160,11,19,3,180
+14,2023,"Per 1 bottle - Calories: 179kcal | Fat: 12.00g | Carbs: 58.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/kahlua/white-russian,184,215,12,58,2,179
+11,2023,"Per 1 tortilla - Calories: 170kcal | Fat: 3.00g | Carbs: 30.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/tortillas-mexico/home-style-flour-tortillas,185,161,3,30,5,170
+11,2023,"Per 1 tortilla  - Calories: 110kcal | Fat: 2.00g | Carbs: 19.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/tortillas-mexico/fajita-style-tortilla,187,162,2,19,3,110
+4,2023,"Per 1924g - Calories: 2539kcal | Fat: 69.06g | Carbs: 399.96g | Protein: 82.34g",https://foods.fatsecret.com/calories-nutrition/generic/pudding-indian-(milk-molasses-and-cornmeal-based-pudding),188,49,69.06,399.96,82.34,2539
+11,2023,"Per 1 bar - Calories: 230kcal | Fat: 12.00g | Carbs: 29.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/chicle,189,163,12,29,4,230
+5,2024,"Per 1/4 cup - Calories: 60kcal | Fat: 8.00g | Carbs: 2.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/four-cheese-alfredo,190,68,8,2,2,60
+4,2023,"Per 100g - Calories: 26kcal | Fat: 0.20g | Carbs: 5.64g | Protein: 0.52g",https://foods.fatsecret.com/calories-nutrition/usda/indian-squash-(navajo),191,50,0.2,5.64,0.52,26
+14,2023,"Per 1 slice - Calories: 80kcal | Fat: 7.00g | Carbs: 0.00g | Protein: 6.00g",https://foods.fatsecret.com/calories-nutrition/svalya/russian-cheese,192,220,7,0,6,80
+5,2024,"Per 1/2 cup - Calories: 50kcal | Fat: 2.50g | Carbs: 11.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/garden-combo-chunky-garden-style-sauce,193,69,2.5,11,2,50
+11,2023,"Per 1 bar - Calories: 60kcal | Fat: 0.00g | Carbs: 16.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/helados-mexico/premium-fruit-bars,194,164,0,16,0,60
+4,2023,"Per 100g - Calories: 16kcal | Fat: 0.15g | Carbs: 3.22g | Protein: 0.31g",https://foods.fatsecret.com/calories-nutrition/usda/indian-squash-(cooked-boiled)-(navajo),195,51,0.15,3.22,0.31,16
+14,2023,"Per 3 slices - Calories: 140kcal | Fat: 1.00g | Carbs: 29.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/cinderella/russian-white,196,221,1,29,4,140
+5,2024,"Per 1/4 cup - Calories: 60kcal | Fat: 4.50g | Carbs: 3.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/alfredo-sauce,197,70,4.5,3,1,60
+4,2023,"Per 100g - Calories: 330kcal | Fat: 12.22g | Carbs: 48.26g | Protein: 6.69g",https://foods.fatsecret.com/calories-nutrition/usda/indian-bread-made-with-lard-(navajo),198,52,12.22,48.26,6.69,330
+4,2023,"Per 669g - Calories: 2611kcal | Fat: 158.24g | Carbs: 274.71g | Protein: 37.69g",https://foods.fatsecret.com/calories-nutrition/generic/ladoo-round-ball-asian-indian-dessert,200,53,158.24,274.71,37.69,2611
+14,2023,"Per 1 cup - Calories: 100kcal | Fat: 0.00g | Carbs: 15.00g | Protein: 14.00g",https://foods.fatsecret.com/calories-nutrition/latta/russian-kefir,201,222,0,15,14,100
+15,2023,"Per 1 serving - Calories: 592kcal | Fat: 24.00g | Carbs: 41.00g | Protein: 53.00g",https://foods.fatsecret.com/calories-nutrition/the-everyday-high-protein-handbook/south-african-bobotie,203,223,24,41,53,592
+5,2024,"Per 1/2 cup - Calories: 80kcal | Fat: 1.00g | Carbs: 16.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/sweet-and-tasty-tomato-pasta-sauce,204,71,1,16,2,80
+15,2023,"Per 17 chips - Calories: 150kcal | Fat: 9.00g | Carbs: 17.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/potato-chips-with-south-african-style-seasoning,205,224,9,17,2,150
+4,2023,"Per 1 Bottle - Calories: 107kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 0.60g",https://foods.fatsecret.com/calories-nutrition/india/malta,206,54,0,26,0.6,107
+5,2024,"Per 1/2 cup - Calories: 60kcal | Fat: 2.00g | Carbs: 9.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/to-be-healthy-spicy-marinara-pasta-sauce,207,72,2,9,2,60
+15,2023,"Per 1 scoop - Calories: 380kcal | Fat: 31.00g | Carbs: 6.00g | Protein: 14.00g",https://foods.fatsecret.com/calories-nutrition/chicken-salad-chick/olivias-old-south,208,225,31,6,14,380
+4,2023,"Per 3904g - Calories: 5543kcal | Fat: 121.02g | Carbs: 979.45g | Protein: 138.19g",https://foods.fatsecret.com/calories-nutrition/generic/pudding-rice-flour-with-nuts-(indian-dessert),209,55,121.02,979.45,138.19,5543
+5,2024,"Per 1/2 cup - Calories: 80kcal | Fat: 3.00g | Carbs: 14.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/original-traditional-pasta-sauce,210,73,3,14,2,80
+15,2023,"Per 4 pancakes - Calories: 475kcal | Fat: 6.00g | Carbs: 48.00g | Protein: 54.00g",https://foods.fatsecret.com/calories-nutrition/protein-house/south-beach-pancakes,211,226,6,48,54,475
+4,2023,"Per 1/4 cup dry - Calories: 160kcal | Fat: 0.00g | Carbs: 35.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/india-gate/basmati-rice,212,56,0,35,4,160
+15,2023,"Per 1 cup - Calories: 81kcal | Fat: 6.00g | Carbs: 5.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/south-beach-diet/surprise-south-beach-mashed-potatoes,213,227,6,5,2,81
+5,2024,"Per 1/4 cup - Calories: 50kcal | Fat: 2.50g | Carbs: 6.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/vodka-sauce,214,74,2.5,6,2,50
+15,2023,"Per 1 packet - Calories: 90kcal | Fat: 1.00g | Carbs: 5.00g | Protein: 15.00g",https://foods.fatsecret.com/calories-nutrition/wellness-choice/south-western-omelet-mix,215,228,1,5,15,90
+15,2023,"Per 1 container - Calories: 560kcal | Fat: 25.00g | Carbs: 65.00g | Protein: 21.00g",https://foods.fatsecret.com/calories-nutrition/veestro/south-indian-coconut-stew,217,229,25,65,21,560
+13,2023,"Per 100g - Calories: 104kcal | Fat: 1.66g | Carbs: 4.21g | Protein: 17.07g",https://foods.fatsecret.com/calories-nutrition/usda/turkey-breast-meat,218,189,1.66,4.21,17.07,104
+16,2023,"Per 1 serving - Calories: 200kcal | Fat: 0.00g | Carbs: 55.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/papa-johns/canada-dry-20-oz,219,247,0,55,0,200
+13,2023,"Per 4 slices - Calories: 60kcal | Fat: 1.50g | Carbs: 2.00g | Protein: 10.00g",https://foods.fatsecret.com/calories-nutrition/hillshire-farm/oven-roasted-turkey-breast,220,190,1.5,2,10,60
+13,2023,"Per 100g - Calories: 104kcal | Fat: 1.66g | Carbs: 4.21g | Protein: 17.07g",https://foods.fatsecret.com/calories-nutrition/generic/turkey-or-chicken-breast-prepackaged-or-deli-luncheon-meat,221,191,1.66,4.21,17.07,104
+13,2023,"Per 100g - Calories: 119kcal | Fat: 2.86g | Carbs: 0.00g | Protein: 21.77g",https://foods.fatsecret.com/calories-nutrition/usda/turkey-meat,222,192,2.86,0,21.77,119
+15,2023,"Per 1 tray - Calories: 620kcal | Fat: 34.00g | Carbs: 42.00g | Protein: 34.00g",https://foods.fatsecret.com/calories-nutrition/freshly/due-south-bbq-beef,224,230,34,42,34,620
+16,2023,"Per 1 serving - Calories: 150kcal | Fat: 0.00g | Carbs: 37.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/sonic/canada-dry-ginger-ale-medium,225,248,0,37,0,150
+15,2023,"Per 1 package - Calories: 420kcal | Fat: 10.00g | Carbs: 41.00g | Protein: 43.00g",https://foods.fatsecret.com/calories-nutrition/megafit-meals/south-of-the-border-chicken,226,231,10,41,43,420
+16,2023,"Per 1 serving - Calories: 230kcal | Fat: 0.00g | Carbs: 56.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/sonic/canada-dry-ginger-ale-large,227,249,0,56,0,230
+15,2023,"Per 1 serving - Calories: 250kcal | Fat: 0.00g | Carbs: 41.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/new-south-wales-sangria-individual,228,232,0,41,0,250
+16,2023,"Per 1 serving - Calories: 100kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/sonic/canada-dry-ginger-ale-small,229,250,0,26,0,100
+13,2023,"Per 100g - Calories: 170kcal | Fat: 4.97g | Carbs: 0.00g | Protein: 29.32g",https://foods.fatsecret.com/calories-nutrition/usda/turkey-meat-(cooked-roasted),230,194,4.97,0,29.32,170
+15,2023,"Per 1 serving - Calories: 840kcal | Fat: 38.00g | Carbs: 59.00g | Protein: 66.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/pulled-pork-sandwich-south-carolina,231,233,38,59,66,840
+16,2023,"Per 1 serving - Calories: 70kcal | Fat: 0.00g | Carbs: 16.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/sonic/canada-dry-ginger-ale-wacky-pack,232,251,0,16,0,70
+16,2023,"Per 1 serving - Calories: 310kcal | Fat: 0.00g | Carbs: 76.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/sonic/canada-dry-ginger-ale-rt-44,234,252,0,76,0,310
+13,2023,"Per 2 oz - Calories: 70kcal | Fat: 0.50g | Carbs: 2.00g | Protein: 14.00g",https://foods.fatsecret.com/calories-nutrition/boars-head/maple-glazed-honey-coat-turkey-breast,235,196,0.5,2,14,70
+13,2023,"Per 100g - Calories: 187kcal | Fat: 7.02g | Carbs: 0.00g | Protein: 28.90g",https://foods.fatsecret.com/calories-nutrition/generic/turkey,236,197,7.02,0,28.9,187
+16,2023,"Per 1 serving - Calories: 340kcal | Fat: 0.00g | Carbs: 90.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-30-fl-oz,237,253,0,90,0,340
+16,2023,"Per 1 serving - Calories: 230kcal | Fat: 0.00g | Carbs: 60.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-20-fl-oz,238,254,0,60,0,230
+5,2024,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 11.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/original-recipe-pasta-sauce,239,75,1,11,2,60
+16,2023,"Per 1 serving - Calories: 140kcal | Fat: 0.00g | Carbs: 38.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-drive-thru-20-fl-oz,240,255,0,38,0,140
+13,2023,"Per 1 slice - Calories: 40kcal | Fat: 1.50g | Carbs: 2.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/butterball/oven-roasted-white-turkey,241,198,1.5,2,4,40
+16,2023,"Per 1 serving - Calories: 210kcal | Fat: 0.00g | Carbs: 57.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-drive-thru-30-fl-oz,242,256,0,57,0,210
+13,2023,"Per 4 oz - Calories: 120kcal | Fat: 0.50g | Carbs: 0.00g | Protein: 28.00g",https://foods.fatsecret.com/calories-nutrition/zacky-farms/turkey-breast-cutlet,243,199,0.5,0,28,120
+16,2023,"Per 8 fl oz - Calories: 0kcal | Fat: 0.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/sparkling-seltzer-water/8-fl-oz,244,257,0,0,0,0
+13,2023,"Per 2 oz - Calories: 50kcal | Fat: 1.00g | Carbs: 2.00g | Protein: 9.00g",https://foods.fatsecret.com/calories-nutrition/kroger/deli-thin-smoked-turkey-breast,245,200,1,2,9,50
+5,2024,"Per 1/4 cup - Calories: 90kcal | Fat: 8.00g | Carbs: 3.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/roasted-garlic-alfredo-sauce,246,76,8,3,2,90
+13,2023,"Per 100g - Calories: 125kcal | Fat: 4.38g | Carbs: 0.00g | Protein: 20.07g",https://foods.fatsecret.com/calories-nutrition/usda/turkey-dark-meat,247,201,4.38,0,20.07,125
+16,2023,"Per 8 fl oz - Calories: 90kcal | Fat: 0.00g | Carbs: 25.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/ginger-ale/8-fl-oz,248,258,0,25,0,90
+6,2024,"Per 100g - Calories: 384kcal | Fat: 0.34g | Carbs: 92.87g | Protein: 3.62g",https://foods.fatsecret.com/calories-nutrition/generic/cookie-tea-japanese,249,77,0.34,92.87,3.62,384
+13,2023,"Per 4 slices - Calories: 60kcal | Fat: 1.50g | Carbs: 3.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/healthy-ones/deli-thin-sliced-smoked-turkey-breast,250,202,1.5,3,8,60
+16,2023,"Per 8 fl oz - Calories: 90kcal | Fat: 0.00g | Carbs: 24.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/tonic-water,251,259,0,24,0,90
+6,2024,"Per 100g - Calories: 42kcal | Fat: 0.23g | Carbs: 10.65g | Protein: 0.50g",https://foods.fatsecret.com/calories-nutrition/generic/pear-japanese-raw,252,78,0.23,10.65,0.5,42
+16,2023,"Per 1 serving - Calories: 0kcal | Fat: 0.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/club-soda,253,260,0,0,0,0
+6,2024,"Per 100g - Calories: 29kcal | Fat: 0.20g | Carbs: 5.44g | Protein: 1.35g",https://foods.fatsecret.com/calories-nutrition/generic/tsukemono-japanese-pickles,254,79,0.2,5.44,1.35,29
+16,2023,"Per 1 bottle - Calories: 210kcal | Fat: 0.00g | Carbs: 56.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/ginger-ale-(20-oz)/1-bottle,255,261,0,56,0,210
+16,2023,"Per 1 serving - Calories: 120kcal | Fat: 0.00g | Carbs: 32.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/black-cherry-wishniak,256,262,0,32,0,120
+17,2023,"Per 1/2 oz - Calories: 70kcal | Fat: 4.50g | Carbs: 1.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/southern-recipe/korean-kimchi-bbq-pork-rinds,257,263,4.5,1,8,70
+17,2023,"Per 2596g - Calories: 883kcal | Fat: 12.46g | Carbs: 187.17g | Protein: 28.56g",https://foods.fatsecret.com/calories-nutrition/generic/korean-dressing-or-marinade,258,264,12.46,187.17,28.56,883
+6,2024,"Per 100g - Calories: 30kcal | Fat: 0.10g | Carbs: 5.67g | Protein: 1.60g",https://foods.fatsecret.com/calories-nutrition/generic/cabbage-fresh-pickled-japanese-style,259,80,0.1,5.67,1.6,30
+17,2023,"Per 74g - Calories: 252kcal | Fat: 11.59g | Carbs: 8.30g | Protein: 27.81g",https://foods.fatsecret.com/calories-nutrition/generic/fish-moochim-(korean-style)-dried-fish-with-soy-sauce,260,265,11.59,8.3,27.81,252
+6,2024,"Per 100g - Calories: 70kcal | Fat: 0.19g | Carbs: 18.59g | Protein: 0.58g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-persimmons,261,81,0.19,18.59,0.58,70
+15,2023,"Per 1 serving - Calories: 850kcal | Fat: 38.00g | Carbs: 51.00g | Protein: 77.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/pulled-pork-dinner-south-carolina,262,234,38,51,77,850
+17,2023,"Per 1 scoop - Calories: 380kcal | Fat: 31.00g | Carbs: 6.00g | Protein: 14.00g",https://foods.fatsecret.com/calories-nutrition/chicken-salad-chick/olivias-old-south,263,225,31,6,14,380
+15,2023,"Per 1 serving - Calories: 320kcal | Fat: 11.00g | Carbs: 28.00g | Protein: 29.00g",https://foods.fatsecret.com/calories-nutrition/betty-crocker/grilled-south-west-shrimp-salad,264,235,11,28,29,320
+6,2024,"Per 100g - Calories: 154kcal | Fat: 0.53g | Carbs: 34.91g | Protein: 2.25g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-chestnuts,265,82,0.53,34.91,2.25,154
+17,2023,"Per 4 pancakes - Calories: 475kcal | Fat: 6.00g | Carbs: 48.00g | Protein: 54.00g",https://foods.fatsecret.com/calories-nutrition/protein-house/south-beach-pancakes,266,226,6,48,54,475
+15,2023,"Per 1 serving - Calories: 380kcal | Fat: 0.00g | Carbs: 100.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/culvers/fresh-brewed-sweet-tea-(south)-large,267,236,0,100,0,380
+6,2024,"Per 100g - Calories: 56kcal | Fat: 0.19g | Carbs: 12.64g | Protein: 0.82g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-chestnuts-(boiled-and-steamed),268,83,0.19,12.64,0.82,56
+17,2023,"Per 1 serving - Calories: 592kcal | Fat: 24.00g | Carbs: 41.00g | Protein: 53.00g",https://foods.fatsecret.com/calories-nutrition/the-everyday-high-protein-handbook/south-african-bobotie,269,223,24,41,53,592
+17,2023,"Per 1 cup - Calories: 81kcal | Fat: 6.00g | Carbs: 5.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/south-beach-diet/surprise-south-beach-mashed-potatoes,270,227,6,5,2,81
+17,2023,"Per 1 packet - Calories: 90kcal | Fat: 1.00g | Carbs: 5.00g | Protein: 15.00g",https://foods.fatsecret.com/calories-nutrition/wellness-choice/south-western-omelet-mix,271,228,1,5,15,90
+13,2023,"Per 3 slices - Calories: 60kcal | Fat: 2.00g | Carbs: 1.00g | Protein: 9.00g",https://foods.fatsecret.com/calories-nutrition/oscar-mayer/98%25-fat-free-deli-thin-oven-roasted-turkey-breast,272,203,2,1,9,60
+15,2023,"Per 1 serving - Calories: 260kcal | Fat: 0.00g | Carbs: 69.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/culvers/fresh-brewed-sweet-tea-(south)-medium,273,237,0,69,0,260
+17,2023,"Per 1 container - Calories: 560kcal | Fat: 25.00g | Carbs: 65.00g | Protein: 21.00g",https://foods.fatsecret.com/calories-nutrition/veestro/south-indian-coconut-stew,274,229,25,65,21,560
+13,2023,"Per 100g - Calories: 149kcal | Fat: 8.26g | Carbs: 0.00g | Protein: 17.46g",https://foods.fatsecret.com/calories-nutrition/usda/ground-turkey,275,204,8.26,0,17.46,149
+6,2024,"Per 100g - Calories: 30kcal | Fat: 0.10g | Carbs: 5.67g | Protein: 1.60g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-style-cabbage-(pickled),276,84,0.1,5.67,1.6,30
+17,2023,"Per 1 tray - Calories: 620kcal | Fat: 34.00g | Carbs: 42.00g | Protein: 34.00g",https://foods.fatsecret.com/calories-nutrition/freshly/due-south-bbq-beef,278,230,34,42,34,620
+13,2023,"Per 6 slices - Calories: 90kcal | Fat: 5.00g | Carbs: 2.00g | Protein: 9.00g",https://foods.fatsecret.com/calories-nutrition/winn-dixie/smoked-turkey-breast,279,205,5,2,9,90
+6,2024,"Per 2 oz uncooked - Calories: 190kcal | Fat: 1.00g | Carbs: 41.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/japanfood/tomoshiraga-somen-noodles,280,85,1,41,5,190
+13,2023,"Per 100g - Calories: 172kcal | Fat: 6.24g | Carbs: 0.00g | Protein: 27.01g",https://foods.fatsecret.com/calories-nutrition/generic/turkey-light-or-dark-meat-stewed,281,206,6.24,0,27.01,172
+17,2023,"Per 1 package - Calories: 420kcal | Fat: 10.00g | Carbs: 41.00g | Protein: 43.00g",https://foods.fatsecret.com/calories-nutrition/megafit-meals/south-of-the-border-chicken,282,231,10,41,43,420
+6,2024,"Per 1 serving - Calories: 190kcal | Fat: 1.00g | Carbs: 41.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/japanfood/tomoshiraga-somen-oriental-style-noodles,283,86,1,41,5,190
+17,2023,"Per 1 serving - Calories: 250kcal | Fat: 0.00g | Carbs: 41.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/new-south-wales-sangria-individual,284,232,0,41,0,250
+6,2024,"Per 1 pack - Calories: 200kcal | Fat: 10.00g | Carbs: 20.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/japon/dry-roasted-crunchy-peanuts,285,87,10,20,8,200
+17,2023,"Per 1 serving - Calories: 840kcal | Fat: 38.00g | Carbs: 59.00g | Protein: 66.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/pulled-pork-sandwich-south-carolina,286,233,38,59,66,840
+13,2023,"Per 1 serving - Calories: 50kcal | Fat: 1.00g | Carbs: 2.00g | Protein: 9.00g",https://foods.fatsecret.com/calories-nutrition/jennie-o/applewood-smoked-turkey-breast,287,207,1,2,9,50
+6,2024,"Per 1 serving - Calories: 590kcal | Fat: 14.00g | Carbs: 80.00g | Protein: 32.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/chicken-and-beef-teriyaki,288,88,14,80,32,590
+17,2023,"Per 1 serving - Calories: 850kcal | Fat: 38.00g | Carbs: 51.00g | Protein: 77.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/pulled-pork-dinner-south-carolina,289,234,38,51,77,850
+13,2023,"Per 100g - Calories: 129kcal | Fat: 4.79g | Carbs: 0.00g | Protein: 20.06g",https://foods.fatsecret.com/calories-nutrition/usda/turkey-dark-meat-and-skin-(fryer-roasters),290,208,4.79,0,20.06,129
+14,2023,"Per 996g - Calories: 1217kcal | Fat: 104.10g | Carbs: 66.58g | Protein: 9.60g",https://foods.fatsecret.com/calories-nutrition/generic/russian-salad,292,209,104.1,66.58,9.6,1217
+17,2023,"Per 1 serving - Calories: 320kcal | Fat: 11.00g | Carbs: 28.00g | Protein: 29.00g",https://foods.fatsecret.com/calories-nutrition/betty-crocker/grilled-south-west-shrimp-salad,293,235,11,28,29,320
+14,2023,"Per 120g - Calories: 456kcal | Fat: 4.68g | Carbs: 1.47g | Protein: 103.89g",https://foods.fatsecret.com/calories-nutrition/generic/russian-protein,295,210,4.68,1.47,103.89,456
+17,2023,"Per 1 serving - Calories: 380kcal | Fat: 0.00g | Carbs: 100.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/culvers/fresh-brewed-sweet-tea-(south)-large,296,236,0,100,0,380
+17,2023,"Per 1 serving - Calories: 260kcal | Fat: 0.00g | Carbs: 69.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/culvers/fresh-brewed-sweet-tea-(south)-medium,298,237,0,69,0,260
+6,2024,"Per 1 serving  - Calories: 510kcal | Fat: 14.00g | Carbs: 62.00g | Protein: 37.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/chicken-yakisoba,299,89,14,62,37,510
+15,2023,"Per 2 tbsp - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/arriba/fire-roasted-mexican-red-salsa,300,242,0,2,0,10
+6,2024,"Per 1 order - Calories: 580kcal | Fat: 12.00g | Carbs: 80.00g | Protein: 33.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/teriyaki-chicken,302,90,12,80,33,580
+17,2023,"Per 17 chips - Calories: 150kcal | Fat: 9.00g | Carbs: 17.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/trader-joes/potato-chips-with-south-african-style-seasoning,304,224,9,17,2,150
+6,2024,"Per 1 meal - Calories: 480kcal | Fat: 10.60g | Carbs: 39.80g | Protein: 53.60g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/chicken-teriyaki-combo-meal-(no-rice),305,91,10.6,39.8,53.6,480
+14,2023,"Per 1668g - Calories: 967kcal | Fat: 0.17g | Carbs: 248.18g | Protein: 0.83g",https://foods.fatsecret.com/calories-nutrition/generic/tea-russian,306,212,0.17,248.18,0.83,967
+17,2023,"Per 1 bundle - Calories: 200kcal | Fat: 2.00g | Carbs: 36.00g | Protein: 12.00g",https://foods.fatsecret.com/calories-nutrition/wang-korea/korean-fresh-noodle-(udon),307,266,2,36,12,200
+6,2024,"Per 1 scoop - Calories: 45kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/teriyaki-sauce,308,92,0,11,1,45
+5,2023,"Per 1 serving - Calories: 140kcal | Fat: 0.00g | Carbs: 3.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/m-chapoutier-belleruche-rose-cotes-du-rhone-france,309,57,0,3,0,140
+14,2023,"Per 100g - Calories: 355kcal | Fat: 26.18g | Carbs: 31.01g | Protein: 1.60g",https://foods.fatsecret.com/calories-nutrition/usda/russian-salad-dressing,310,213,26.18,31.01,1.6,355
+5,2023,"Per 1 serving - Calories: 590kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/m-chapoutier-belleruche-rose-cotes-du-rhone-france-bottle,311,58,0,11,1,590
+14,2023,"Per 100g - Calories: 141kcal | Fat: 4.00g | Carbs: 27.60g | Protein: 0.50g",https://foods.fatsecret.com/calories-nutrition/usda/russian-salad-dressing-(low-calorie),312,214,4,27.6,0.5,141
+5,2023,"Per 100g - Calories: 85kcal | Fat: 0.00g | Carbs: 2.45g | Protein: 0.07g",https://foods.fatsecret.com/calories-nutrition/usda/cabernet-franc-wine,314,59,0,2.45,0.07,85
+14,2023,"Per 90g - Calories: 245kcal | Fat: 0.11g | Carbs: 16.29g | Protein: 0.04g",https://foods.fatsecret.com/calories-nutrition/generic/black-russian,315,216,0.11,16.29,0.04,245
+5,2023,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 11.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/traditional-marinara-sauce,316,60,1,11,2,60
+1,2023,"Per 4 oz - Calories: 120kcal | Fat: 2.00g | Carbs: 1.00g | Protein: 23.00g",https://foods.fatsecret.com/calories-nutrition/sea-queen/usa-gulf-shrimp,317,1,2,1,23,120
+6,2024,"Per 1 serving - Calories: 721kcal | Fat: 11.00g | Carbs: 93.00g | Protein: 56.00g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/chicken-teriyaki-combo-meal,318,93,11,93,56,721
+5,2023,"Per 1/2 cup - Calories: 100kcal | Fat: 4.50g | Carbs: 15.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/super-mushroom-pasta-sauce,319,61,4.5,15,2,100
+6,2024,"Per 1 serving - Calories: 580kcal | Fat: 15.00g | Carbs: 80.00g | Protein: 32.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/sukiyaki-beef,320,94,15,80,32,580
+1,2023,"Per 1 bar - Calories: 290kcal | Fat: 17.00g | Carbs: 24.00g | Protein: 13.00g",https://foods.fatsecret.com/calories-nutrition/usa-sports/vanilla-muscle-sandwich,321,2,17,24,13,290
+5,2023,"Per 1/2 cup - Calories: 70kcal | Fat: 2.00g | Carbs: 13.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/tomato-garlic-and-onion-chunky-garden-pasta-sauce,322,62,2,13,2,70
+6,2024,"Per 1 meal - Calories: 640kcal | Fat: 24.00g | Carbs: 79.00g | Protein: 28.00g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/chicken-teriyaki-with-steamed-rice,323,95,24,79,28,640
+1,2023,"Per 1 serving - Calories: 40kcal | Fat: 0.00g | Carbs: 10.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/fibergy,324,3,0,10,0,40
+14,2023,"Per 100g - Calories: 141kcal | Fat: 4.00g | Carbs: 27.60g | Protein: 0.50g",https://foods.fatsecret.com/calories-nutrition/generic/russian-dressing-low-calorie,325,217,4,27.6,0.5,141
+1,2023,"Per 1 bar - Calories: 160kcal | Fat: 4.50g | Carbs: 20.00g | Protein: 11.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrition-bar---peanut-butter-crunch,326,4,4.5,20,11,160
+6,2024,"Per 1 order - Calories: 190kcal | Fat: 9.00g | Carbs: 15.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/vegetable-spring-roll,327,96,9,15,3,190
+1,2023,"Per 1 serving - Calories: 255kcal | Fat: 7.00g | Carbs: 33.00g | Protein: 16.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-drink-mix---french-vanilla,328,5,7,33,16,255
+7,2024,"Per 100g - Calories: 648kcal | Fat: 68.87g | Carbs: 0.00g | Protein: 6.27g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-fat,329,97,68.87,0,6.27,648
+5,2023,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 10.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/no-salt-added-traditional-pasta-sauce,330,63,1,10,2,60
+1,2023,"Per 1 serving - Calories: 242kcal | Fat: 7.00g | Carbs: 32.00g | Protein: 16.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-drink-mix---dutch-chocolate,331,6,7,32,16,242
+5,2023,"Per 1/2 cup - Calories: 90kcal | Fat: 4.50g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/eggplant-and-parmesan-sauce,332,64,4.5,12,2,90
+7,2024,"Per 100g - Calories: 229kcal | Fat: 16.97g | Carbs: 0.00g | Protein: 17.84g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-(trimmed-to-1-8-fat),333,98,16.97,0,17.84,229
+5,2023,"Per 1/2 cup - Calories: 70kcal | Fat: 2.00g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/meat-flavored-traditional-pasta-sauce,334,65,2,12,2,70
+1,2023,"Per 1 serving - Calories: 255kcal | Fat: 7.00g | Carbs: 33.00g | Protein: 16.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-drink-mix---wild-strawberry,335,7,7,33,16,255
+7,2024,"Per 100g - Calories: 195kcal | Fat: 12.68g | Carbs: 0.00g | Protein: 18.85g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-foreshank-(trimmed-to-1-8-fat),336,99,12.68,0,18.85,195
+5,2023,"Per 1/4 cup - Calories: 20kcal | Fat: 0.00g | Carbs: 4.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/pizza-sauce,337,66,0,4,1,20
+1,2023,"Per 1 serving - Calories: 261kcal | Fat: 9.40g | Carbs: 18.80g | Protein: 21.00g",https://foods.fatsecret.com/calories-nutrition/usana-health-sciences/nutrimeal-chocolate,338,8,9.4,18.8,21,261
+7,2024,"Per 100g - Calories: 289kcal | Fat: 24.20g | Carbs: 0.00g | Protein: 16.46g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-ribs-(trimmed-to-1-8-fat),339,100,24.2,0,16.46,289
+5,2023,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/tomato-garlic-onion-pasta-sauce,340,67,1,12,2,60
+1,2023,"Per 1 piece - Calories: 270kcal | Fat: 0.00g | Carbs: 63.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/daifuku/mochi-kusa,341,9,0,63,4,270
+5,2023,"Per 1/4 cup - Calories: 60kcal | Fat: 8.00g | Carbs: 2.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/four-cheese-alfredo,342,68,8,2,2,60
+5,2023,"Per 1/2 cup - Calories: 50kcal | Fat: 2.50g | Carbs: 11.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/garden-combo-chunky-garden-style-sauce,343,69,2.5,11,2,50
+7,2023,"Per 100g - Calories: 208kcal | Fat: 14.38g | Carbs: 0.00g | Protein: 18.33g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(sirloin-chops-boneless-trimmed-to-1-8-fat),344,112,14.38,0,18.33,208
+5,2023,"Per 1/4 cup - Calories: 60kcal | Fat: 4.50g | Carbs: 3.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/alfredo-sauce,345,70,4.5,3,1,60
+7,2023,"Per 100g - Calories: 137kcal | Fat: 5.81g | Carbs: 0.00g | Protein: 19.88g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-arm-(lean-only-trimmed-to-1-8-fat),346,113,5.81,0,19.88,137
+1,2023,"Per 1 serving - Calories: 20kcal | Fat: 0.00g | Carbs: 4.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/clean-eatz/nsa-bbq-sauce,347,10,0,4,1,20
+5,2023,"Per 1/2 cup - Calories: 80kcal | Fat: 1.00g | Carbs: 16.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/sweet-and-tasty-tomato-pasta-sauce,348,71,1,16,2,80
+7,2024,"Per 100g - Calories: 203kcal | Fat: 13.38g | Carbs: 0.00g | Protein: 19.32g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-loin-(trimmed-to-1-8-fat),349,101,13.38,0,19.32,203
+1,2023,"Per 1 serving - Calories: 30kcal | Fat: 0.00g | Carbs: 6.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/sweet-frog/nsa-cheesecake-frozen-yogurt,350,11,0,6,1,30
+7,2024,"Per 100g - Calories: 243kcal | Fat: 18.89g | Carbs: 0.00g | Protein: 17.06g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-arm-(trimmed-to-1-8-fat),351,102,18.89,0,17.06,243
+1,2023,"Per 1 oz - Calories: 35kcal | Fat: 0.00g | Carbs: 7.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/orange-leaf/nsa-vanilla-frozen-yogurt,352,12,0,7,1,35
+7,2023,"Per 100g - Calories: 215kcal | Fat: 15.19g | Carbs: 0.00g | Protein: 18.24g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(whole-(shank-and-sirloin)-trimmed-to-1-8-fat),353,114,15.19,0,18.24,215
+5,2023,"Per 1/2 cup - Calories: 60kcal | Fat: 2.00g | Carbs: 9.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/to-be-healthy-spicy-marinara-pasta-sauce,354,72,2,9,2,60
+7,2024,"Per 100g - Calories: 142kcal | Fat: 6.18g | Carbs: 0.00g | Protein: 20.25g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-(lean-only-trimmed-to-1-8-fat),355,103,6.18,0,20.25,142
+1,2023,"Per 1 steak - Calories: 250kcal | Fat: 11.00g | Carbs: 0.00g | Protein: 35.00g",https://foods.fatsecret.com/calories-nutrition/schwans/usda-choice-filet-mignon,356,13,11,0,35,250
+7,2023,"Per 100g - Calories: 133kcal | Fat: 5.10g | Carbs: 0.00g | Protein: 20.45g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(shank-half-lean-only-trimmed-to-1-8-fat),357,115,5.1,0,20.45,133
+7,2024,"Per 100g - Calories: 262kcal | Fat: 21.28g | Carbs: 0.00g | Protein: 16.48g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-blade-(trimmed-to-1-8-fat),358,104,21.28,0,16.48,262
+1,2023,"Per 3/4 cup - Calories: 60kcal | Fat: 0.50g | Carbs: 15.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/vip/use-like-fresh-mixed-fruit,359,14,0.5,15,1,60
+7,2023,"Per 100g - Calories: 195kcal | Fat: 12.56g | Carbs: 0.00g | Protein: 19.17g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(center-slice-bone-in-trimmed-to-1-8-fat),360,116,12.56,0,19.17,195
+6,2023,"Per 100g - Calories: 384kcal | Fat: 0.34g | Carbs: 92.87g | Protein: 3.62g",https://foods.fatsecret.com/calories-nutrition/generic/cookie-tea-japanese,361,77,0.34,92.87,3.62,384
+1,2023,"Per 1 serving - Calories: 250kcal | Fat: 6.00g | Carbs: 3.00g | Protein: 46.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-6-oz,362,15,6,3,46,250
+7,2024,"Per 100g - Calories: 201kcal | Fat: 13.48g | Carbs: 0.00g | Protein: 18.59g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(shank-half-trimmed-to-1-8-fat),363,105,13.48,0,18.59,201
+5,2023,"Per 1/2 cup - Calories: 80kcal | Fat: 3.00g | Carbs: 14.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/original-traditional-pasta-sauce,364,73,3,14,2,80
+6,2023,"Per 100g - Calories: 42kcal | Fat: 0.23g | Carbs: 10.65g | Protein: 0.50g",https://foods.fatsecret.com/calories-nutrition/generic/pear-japanese-raw,365,78,0.23,10.65,0.5,42
+7,2024,"Per 100g - Calories: 146kcal | Fat: 6.24g | Carbs: 0.00g | Protein: 21.00g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-loin-(lean-only-trimmed-to-1-8-fat),366,106,6.24,0,21,146
+5,2023,"Per 1/4 cup - Calories: 50kcal | Fat: 2.50g | Carbs: 6.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/vodka-sauce,367,74,2.5,6,2,50
+6,2023,"Per 100g - Calories: 29kcal | Fat: 0.20g | Carbs: 5.44g | Protein: 1.35g",https://foods.fatsecret.com/calories-nutrition/generic/tsukemono-japanese-pickles,368,79,0.2,5.44,1.35,29
+5,2023,"Per 1/2 cup - Calories: 60kcal | Fat: 1.00g | Carbs: 11.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/original-recipe-pasta-sauce,369,75,1,11,2,60
+6,2023,"Per 100g - Calories: 30kcal | Fat: 0.10g | Carbs: 5.67g | Protein: 1.60g",https://foods.fatsecret.com/calories-nutrition/generic/cabbage-fresh-pickled-japanese-style,370,80,0.1,5.67,1.6,30
+1,2023,"Per 1 serving - Calories: 340kcal | Fat: 8.00g | Carbs: 5.00g | Protein: 61.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-8-oz,371,16,8,5,61,340
+6,2023,"Per 100g - Calories: 70kcal | Fat: 0.19g | Carbs: 18.59g | Protein: 0.58g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-persimmons,372,81,0.19,18.59,0.58,70
+1,2023,"Per 1 serving - Calories: 460kcal | Fat: 11.00g | Carbs: 6.00g | Protein: 84.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-11-oz,373,17,11,6,84,460
+5,2023,"Per 1/4 cup - Calories: 90kcal | Fat: 8.00g | Carbs: 3.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/francesco-rinaldi/roasted-garlic-alfredo-sauce,374,76,8,3,2,90
+6,2023,"Per 100g - Calories: 154kcal | Fat: 0.53g | Carbs: 34.91g | Protein: 2.25g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-chestnuts,375,82,0.53,34.91,2.25,154
+1,2023,"Per 1 serving - Calories: 670kcal | Fat: 16.00g | Carbs: 9.00g | Protein: 122.00g",https://foods.fatsecret.com/calories-nutrition/texas-roadhouse/usda-choice-sirloin-16-oz,376,18,16,9,122,670
+8,2023,"Per 3 nuts - Calories: 90kcal | Fat: 9.00g | Carbs: 2.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/terrasoul/raw-brazil-nuts,377,117,9,2,2,90
+6,2023,"Per 100g - Calories: 56kcal | Fat: 0.19g | Carbs: 12.64g | Protein: 0.82g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-chestnuts-(boiled-and-steamed),378,83,0.19,12.64,0.82,56
+6,2023,"Per 100g - Calories: 30kcal | Fat: 0.10g | Carbs: 5.67g | Protein: 1.60g",https://foods.fatsecret.com/calories-nutrition/usda/japanese-style-cabbage-(pickled),380,84,0.1,5.67,1.6,30
+8,2023,"Per 6 nuts - Calories: 190kcal | Fat: 19.00g | Carbs: 3.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/meijer/brazil-nuts,381,118,19,3,4,190
+6,2023,"Per 2 oz uncooked - Calories: 190kcal | Fat: 1.00g | Carbs: 41.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/japanfood/tomoshiraga-somen-noodles,382,85,1,41,5,190
+6,2023,"Per 1 serving - Calories: 190kcal | Fat: 1.00g | Carbs: 41.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/japanfood/tomoshiraga-somen-oriental-style-noodles,384,86,1,41,5,190
+1,2023,"Per 1 serving - Calories: 560kcal | Fat: 25.00g | Carbs: 43.00g | Protein: 42.00g",https://foods.fatsecret.com/calories-nutrition/applebees/usda-select-sirloin-(6-oz),385,19,25,43,42,560
+6,2023,"Per 1 pack - Calories: 200kcal | Fat: 10.00g | Carbs: 20.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/japon/dry-roasted-crunchy-peanuts,386,87,10,20,8,200
+1,2023,"Per 1 serving - Calories: 620kcal | Fat: 27.00g | Carbs: 44.00g | Protein: 53.00g",https://foods.fatsecret.com/calories-nutrition/applebees/usda-select-sirloin-(8-oz),387,20,27,44,53,620
+6,2023,"Per 1 serving - Calories: 590kcal | Fat: 14.00g | Carbs: 80.00g | Protein: 32.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/chicken-and-beef-teriyaki,388,88,14,80,32,590
+7,2023,"Per 100g - Calories: 648kcal | Fat: 68.87g | Carbs: 0.00g | Protein: 6.27g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-fat,389,97,68.87,0,6.27,648
+6,2023,"Per 1 serving  - Calories: 510kcal | Fat: 14.00g | Carbs: 62.00g | Protein: 37.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/chicken-yakisoba,390,89,14,62,37,510
+7,2023,"Per 100g - Calories: 229kcal | Fat: 16.97g | Carbs: 0.00g | Protein: 17.84g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-(trimmed-to-1-8-fat),391,98,16.97,0,17.84,229
+6,2023,"Per 1 order - Calories: 580kcal | Fat: 12.00g | Carbs: 80.00g | Protein: 33.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/teriyaki-chicken,392,90,12,80,33,580
+7,2023,"Per 100g - Calories: 195kcal | Fat: 12.68g | Carbs: 0.00g | Protein: 18.85g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-foreshank-(trimmed-to-1-8-fat),393,99,12.68,0,18.85,195
+6,2023,"Per 1 meal - Calories: 480kcal | Fat: 10.60g | Carbs: 39.80g | Protein: 53.60g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/chicken-teriyaki-combo-meal-(no-rice),394,91,10.6,39.8,53.6,480
+6,2023,"Per 1 scoop - Calories: 45kcal | Fat: 0.00g | Carbs: 11.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/teriyaki-sauce,395,92,0,11,1,45
+6,2023,"Per 1 serving - Calories: 721kcal | Fat: 11.00g | Carbs: 93.00g | Protein: 56.00g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/chicken-teriyaki-combo-meal,396,93,11,93,56,721
+6,2023,"Per 1 serving - Calories: 580kcal | Fat: 15.00g | Carbs: 80.00g | Protein: 32.00g",https://foods.fatsecret.com/calories-nutrition/edo-japan/sukiyaki-beef,397,94,15,80,32,580
+6,2023,"Per 1 meal - Calories: 640kcal | Fat: 24.00g | Carbs: 79.00g | Protein: 28.00g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/chicken-teriyaki-with-steamed-rice,398,95,24,79,28,640
+6,2023,"Per 1 order - Calories: 190kcal | Fat: 9.00g | Carbs: 15.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/sarku-japan/vegetable-spring-roll,399,96,9,15,3,190
+3,2023,"Per 1 serving - Calories: 1310kcal | Fat: 81.00g | Carbs: 87.00g | Protein: 60.00g",https://foods.fatsecret.com/calories-nutrition/islands-restaurants/china-coast,400,21,81,87,60,1310
+3,2023,"Per 1 brewed cup - Calories: 0kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/tea-pot-brand/china-slim-tea,401,22,0,1,0,0
+3,2023,"Per 1 tbsp - Calories: 10kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/ranchero/salsa-china-soy-sauce,402,23,0,1,1,10
+3,2023,"Per 100g - Calories: 490kcal | Fat: 30.75g | Carbs: 43.85g | Protein: 15.62g",https://foods.fatsecret.com/calories-nutrition/generic/chia-seeds,403,24,30.75,43.85,15.62,490
+3,2023,"Per 434g - Calories: 458kcal | Fat: 18.94g | Carbs: 54.42g | Protein: 19.98g",https://foods.fatsecret.com/calories-nutrition/generic/chia-pudding,404,25,18.94,54.42,19.98,458
+3,2023,"Per 1/2 cup - Calories: 130kcal | Fat: 5.00g | Carbs: 16.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/china-boy/rice-noodles,405,26,5,16,3,130
+3,2023,"Per 1 tbsp - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 1.00g",https://foods.fatsecret.com/calories-nutrition/china-lily/soya-sauce,406,27,0,2,1,10
+3,2023,"Per 1/4 cup dry - Calories: 70kcal | Fat: 0.00g | Carbs: 22.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/china-doll/dried-large-lima-beans,407,28,0,22,7,70
+3,2023,"Per 1/2 cup - Calories: 130kcal | Fat: 5.00g | Carbs: 16.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/china-boy/chow-mein-noodles,408,29,5,16,3,130
+3,2023,"Per 2 oz - Calories: 200kcal | Fat: 0.00g | Carbs: 47.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/china-boy/enriched-lo-mein-noodles,409,30,0,47,4,200
+3,2023,"Per 3 oz - Calories: 140kcal | Fat: 9.00g | Carbs: 1.00g | Protein: 14.00g",https://foods.fatsecret.com/calories-nutrition/china-tofu/marinated-bean-curd,410,31,9,1,14,140
+8,2023,"Per 5 nuts - Calories: 130kcal | Fat: 13.00g | Carbs: 2.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/now-real-food/organic-brazil-nuts,411,119,13,2,3,130
+3,2023,"Per 1/3 cup - Calories: 70kcal | Fat: 0.00g | Carbs: 17.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/china-bowl-select/cellophane-noodles,412,32,0,17,0,70
+3,2023,"Per 1/2 cup - Calories: 150kcal | Fat: 1.00g | Carbs: 34.00g | Protein: 5.00g",https://foods.fatsecret.com/calories-nutrition/china-bowl-select/chinese-noodles,414,33,1,34,5,150
+8,2023,"Per 1/4 cup - Calories: 200kcal | Fat: 20.00g | Carbs: 4.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/diamond-of-california/shelled-brazil-nuts,415,120,20,4,4,200
+3,2023,"Per 100g - Calories: 490kcal | Fat: 30.75g | Carbs: 43.85g | Protein: 15.62g",https://foods.fatsecret.com/calories-nutrition/usda/dried-chia-seeds,416,34,30.75,43.85,15.62,490
+8,2023,"Per 6 kernels - Calories: 185kcal | Fat: 19.00g | Carbs: 3.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/food-to-live/raw-organic-brazil-nuts,417,121,19,3,4,185
+3,2023,"Per 18 pieces - Calories: 110kcal | Fat: 5.00g | Carbs: 14.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/gonyek/chin-chin,418,35,5,14,2,110
+3,2023,"Per 1 pouch - Calories: 70kcal | Fat: 3.00g | Carbs: 12.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/mamma-chia/chia-squeeze,420,36,3,12,2,70
+3,2023,"Per 1/2 oz - Calories: 77kcal | Fat: 5.00g | Carbs: 7.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/the-chia-co/black-chia,422,37,5,7,3,77
+3,2023,"Per 1 tbsp - Calories: 60kcal | Fat: 4.00g | Carbs: 4.00g | Protein: 3.00g",https://foods.fatsecret.com/calories-nutrition/mamma-chia/organic-chia-seeds,424,38,4,4,3,60
+8,2023,"Per 5 pieces - Calories: 219kcal | Fat: 20.00g | Carbs: 14.00g | Protein: 6.00g",https://foods.fatsecret.com/calories-nutrition/next-organics/dark-chocolate-brazil-nuts,425,122,20,14,6,219
+3,2023,"Per 1 package - Calories: 490kcal | Fat: 16.00g | Carbs: 79.00g | Protein: 13.00g",https://foods.fatsecret.com/calories-nutrition/central-market/chana-masala,426,39,16,79,13,490
+19,2023,"Per 686g - Calories: 604kcal | Fat: 8.51g | Carbs: 114.28g | Protein: 17.29g",https://foods.fatsecret.com/calories-nutrition/generic/potato-salad-german-style,429,267,8.51,114.28,17.29,604
+19,2023,"Per 1490g - Calories: 5512kcal | Fat: 276.22g | Carbs: 736.42g | Protein: 52.14g",https://foods.fatsecret.com/calories-nutrition/generic/cake-german-chocolate-with-icing-and-filling,432,268,276.22,736.42,52.14,5512
+19,2023,"Per 100g - Calories: 401kcal | Fat: 9.50g | Carbs: 80.10g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/usda/german-chocolate-cake-(dry-mix-pudding-type),434,269,9.5,80.1,4,401
+19,2023,"Per 4 slices - Calories: 120kcal | Fat: 10.00g | Carbs: 0.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/pillers/german-salami,436,270,10,0,8,120
+19,2023,"Per 1 german pretzel - Calories: 940kcal | Fat: 10.00g | Carbs: 190.00g | Protein: 20.00g",https://foods.fatsecret.com/calories-nutrition/world-of-beer/german-pretzel,438,271,10,190,20,940
+7,2023,"Per 100g - Calories: 289kcal | Fat: 24.20g | Carbs: 0.00g | Protein: 16.46g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-ribs-(trimmed-to-1-8-fat),439,100,24.2,0,16.46,289
+8,2023,"Per 6 pieces - Calories: 200kcal | Fat: 14.00g | Carbs: 3.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/king-henrys/brazil-nut,440,124,14,3,4,200
+7,2023,"Per 100g - Calories: 203kcal | Fat: 13.38g | Carbs: 0.00g | Protein: 19.32g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-loin-(trimmed-to-1-8-fat),441,101,13.38,0,19.32,203
+7,2023,"Per 100g - Calories: 243kcal | Fat: 18.89g | Carbs: 0.00g | Protein: 17.06g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-arm-(trimmed-to-1-8-fat),443,102,18.89,0,17.06,243
+16,2023,"Per 1 can - Calories: 5kcal | Fat: 0.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/canada-dry/diet-canada-dry,444,243,0,0,0,5
+7,2023,"Per 100g - Calories: 142kcal | Fat: 6.18g | Carbs: 0.00g | Protein: 20.25g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-(lean-only-trimmed-to-1-8-fat),445,103,6.18,0,20.25,142
+19,2023,"Per 1 link - Calories: 150kcal | Fat: 10.00g | Carbs: 3.00g | Protein: 12.00g",https://foods.fatsecret.com/calories-nutrition/charcutnuvo/german-bratwurst,447,272,10,3,12,150
+16,2023,"Per 1 serving - Calories: 680kcal | Fat: 0.00g | Carbs: 186.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/papa-johns/canada-dry-2-liter,448,245,0,186,0,680
+19,2023,"Per 1 serving - Calories: 710kcal | Fat: 32.00g | Carbs: 88.00g | Protein: 18.00g",https://foods.fatsecret.com/calories-nutrition/ihop/german-crepes,449,273,32,88,18,710
+19,2023,"Per 2 oz - Calories: 130kcal | Fat: 11.00g | Carbs: 2.00g | Protein: 7.00g",https://foods.fatsecret.com/calories-nutrition/deutschmacher/german-bologna,450,274,11,2,7,130
+19,2023,"Per 1 link - Calories: 200kcal | Fat: 16.00g | Carbs: 1.00g | Protein: 12.00g",https://foods.fatsecret.com/calories-nutrition/boulder-sausage/german-sausage,451,275,16,1,12,200
+19,2023,"Per 1 scoop - Calories: 0kcal | Fat: 0.00g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/fitness-labs/german-creatine,452,276,0,0,0,0
+19,2023,"Per 1 link - Calories: 218kcal | Fat: 18.00g | Carbs: 4.00g | Protein: 11.00g",https://foods.fatsecret.com/calories-nutrition/purefoods/german-franks,453,277,18,4,11,218
+19,2023,"Per 1 - Calories: 340kcal | Fat: 11.00g | Carbs: 34.00g | Protein: 27.00g",https://foods.fatsecret.com/calories-nutrition/clean-simple-eats/german-pancakes,454,278,11,34,27,340
+7,2023,"Per 100g - Calories: 262kcal | Fat: 21.28g | Carbs: 0.00g | Protein: 16.48g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-blade-(trimmed-to-1-8-fat),456,104,21.28,0,16.48,262
+19,2023,"Per 1 tsp - Calories: 5kcal | Fat: 0.50g | Carbs: 0.00g | Protein: 0.00g",https://foods.fatsecret.com/calories-nutrition/hengstenberg/hot-german-mustard,457,279,0.5,0,0,5
+19,2023,"Per 1 frank - Calories: 190kcal | Fat: 17.00g | Carbs: 1.00g | Protein: 8.00g",https://foods.fatsecret.com/calories-nutrition/hofmann-sausage/german-brand-franks,458,280,17,1,8,190
+7,2023,"Per 100g - Calories: 201kcal | Fat: 13.48g | Carbs: 0.00g | Protein: 18.59g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(shank-half-trimmed-to-1-8-fat),459,105,13.48,0,18.59,201
+19,2023,"Per 1/2 cup - Calories: 120kcal | Fat: 3.00g | Carbs: 22.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/read/german-potato-salad,460,281,3,22,2,120
+7,2023,"Per 100g - Calories: 146kcal | Fat: 6.24g | Carbs: 0.00g | Protein: 21.00g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-loin-(lean-only-trimmed-to-1-8-fat),461,106,6.24,0,21,146
+7,2023,"Per 100g - Calories: 160kcal | Fat: 8.20g | Carbs: 0.00g | Protein: 20.12g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-ribs-(lean-only-trimmed-to-1-8-fat),462,107,8.2,0,20.12,160
+7,2023,"Per 100g - Calories: 123kcal | Fat: 3.81g | Carbs: 0.00g | Protein: 20.83g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-foreshank-(lean-only-trimmed-to-1-8-fat),463,108,3.81,0,20.83,123
+7,2023,"Per 100g - Calories: 254kcal | Fat: 20.00g | Carbs: 0.00g | Protein: 17.25g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-leg-(sirloin-half-boneless-trimmed-to-1-8-fat),464,109,20,0,17.25,254
+7,2023,"Per 100g - Calories: 256kcal | Fat: 20.47g | Carbs: 0.00g | Protein: 16.68g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-arm-and-blade-(trimmed-to-1-8-fat),465,110,20.47,0,16.68,256
+7,2023,"Per 100g - Calories: 164kcal | Fat: 9.09g | Carbs: 0.00g | Protein: 19.10g",https://foods.fatsecret.com/calories-nutrition/usda/australian-lamb-shoulder-blade-(lean-only-trimmed-to-1-8-fat),466,111,9.09,0,19.1,164
+19,2023,"Per 1/2 biscotti - Calories: 140kcal | Fat: 7.00g | Carbs: 17.00g | Protein: 2.00g",https://foods.fatsecret.com/calories-nutrition/be-bop-biscotti/german-chocolate-biscotti,467,282,7,17,2,140
+19,2023,"Per 2 slices - Calories: 150kcal | Fat: 2.00g | Carbs: 30.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/todays-temptations/german-rye-bread,468,283,2,30,4,150
+19,2023,"Per 1 slice - Calories: 109kcal | Fat: 0.00g | Carbs: 22.00g | Protein: 4.00g",https://foods.fatsecret.com/calories-nutrition/beckmanns/german-farm-bread,470,284,0,22,4,109
